@@ -1,0 +1,19 @@
+.card {
+    height: 300px;
+    width: 150px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1px solid #eee
+}
+
+.signs {
+    padding: 10px;
+    background-color: #0004;
+    width: 90%;
+    border-radius: 10px;
+    color: #fff;
+}
